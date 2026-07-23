@@ -23,3 +23,4 @@ def predict_loan(application:LoanApplication):
         
         }
 
+
